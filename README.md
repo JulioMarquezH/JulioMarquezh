@@ -1,6 +1,6 @@
 ### hi welcome 👋
 
-# I am julio
+# I am Julio
 
 I am a web developer specialized in the development of accessible decoupled and modular applications.
 
